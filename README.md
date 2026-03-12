@@ -80,6 +80,13 @@ Platform for managing courses, users, and online learning resources.
 <a href="mailto:nedjar.abdelilah.wail@gmail.com">Email</a>
 </p>
 
+## 🌐 Portfolio
+
+🚀 **Live Portfolio:**  
+👉 https://nedjar-wail.vercel.app/
+
+This website presents my projects, technical skills, and development experience.
+
 ---
 <p>- 📫 How to reach me **nedjar.abdelilah.wail@gmail.com**</p>
   
