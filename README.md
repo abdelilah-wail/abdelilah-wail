@@ -17,11 +17,6 @@ Building scalable web applications and intelligent systems.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,php,python,tensorflow,pytorch,mongodb,mysql,postgres,docker,git,linux,vscode,postman" />
-</p>
- </p>
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -48,6 +43,14 @@ Building scalable web applications and intelligent systems.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
+---
+
+<h3 align="left">Other Tools:</h3>
+<p align="left"><p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,express,php,python,tensorflow,pytorch,mongodb,mysql,postgres,docker,git,linux,vscode,postman" />
+</p>
+ </p>
+ 
 ---
 
 ## 📌 Featured Projects
