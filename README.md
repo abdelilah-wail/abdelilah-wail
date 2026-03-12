@@ -78,7 +78,8 @@ Platform for managing courses, users, and online learning resources.
 </p>
 
 ---
-- 📫 How to reach me **nedjar.abdelilah.wail@gmail.com**
+<p>- 📫 How to reach me **nedjar.abdelilah.wail@gmail.com**</p>
+  
 ⭐️ From [abdelilah-wail](https://github.com/abdelilah-wail) 
 
 
