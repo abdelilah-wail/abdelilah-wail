@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nedjar Abdelilah Wail</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | AI & Machine Learning</h3>
 
 <p align="center">
 Building scalable web applications and intelligent systems.
