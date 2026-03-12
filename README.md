@@ -1,71 +1,60 @@
-# Hi, I'm Nedjar Abdelilah Wail 👋
+<h1 align="center">Hi 👋, I'm Nedjar Abdelilah Wail</h1>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
 
-🎓 Software Engineering Student at Université Constantine 2 Abdelhamid Mehri  
-💻 Full-Stack Developer | AI & Machine Learning   
-📍 Constantine, Algeria
-
-I am passionate about building scalable web applications and intelligent systems.  
-My goal is to bridge the gap between traditional software engineering and AI-powered applications.
+<p align="center">
+Building scalable web applications and intelligent systems.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering student (Expected graduation: 2027)
-- 🧠 Interested in Artificial Intelligence and Data Science
-- 🌐 Full-Stack developer building modern web applications
-- 🤖 Developing intelligent systems using Machine Learning
+- 🎓 Software Engineering Student at **Université Constantine 2**
+- 💻 Passionate about **Full-Stack Development**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🌱 Currently learning **Advanced AI and scalable backend systems**
+- 🎯 Goal: Build intelligent software that solves real-world problems
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML
-- CSS
-- Tailwind
-- JavaScript
-- React.js
-- Next.js
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ### Backend
-- Node.js
-- Express.js
-- PHP
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
-### Data Science & AI
-- Python
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
+### AI & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
 ### Tools
-- Git & GitHub
-- Docker
-- VS Code
-- Jupyter Notebook
-- Postman
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🚗 Car Rental System
-Full-stack web application with authentication, booking system and database integration.
-
-### 📱 Social Media Application
-A social platform with user authentication, posts, and interactive features.
-
-### 🕌 Salat Time App
-Application providing prayer times with a clean and responsive interface.
-
-### 🎓 E-Learning Platform
-Online learning system with course management and user roles.
+Full-stack application with authentication, booking system, and REST APIs.
 
 ### 🏥 Hospital Management System
-Project lead responsible for the design and development of a complete hospital management system.
+Led a development team to design and implement a hospital management platform.
+
+### 🎓 E-Learning Platform
+Platform for managing courses, users, and online learning resources.
 
 ### 🤖 AI Projects
 - Recommendation Engine
@@ -74,16 +63,26 @@ Project lead responsible for the design and development of a complete hospital m
 
 ---
 
-## 🌍 Languages
+## 📊 GitHub Stats
 
-- Arabic — Native
-- English — B2
-- French — B2
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abdelilah-wail&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelilah-wail&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🌍 Connect With Me
 
-📧 Email: nedjar.abdelilah.wail@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/nedjar-abdelilah-wail  
-💻 GitHub: https://github.com/abdelilah-wail
+<p>
+<a href="https://github.com/abdelilah-wail">GitHub</a> |
+<a href="https://www.linkedin.com/in/nedjar-abdelilah-wail/">LinkedIn</a> |
+<a href="mailto:nedjar.abdelilah.wail@gmail.com">Email</a>
+</p>
+
+---
+
+⭐️ From [abdelilah-wail](https://github.com/abdelilah-wail)
